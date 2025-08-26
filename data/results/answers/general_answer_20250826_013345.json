@@ -1,0 +1,7 @@
+{
+  "timestamp": "2025-08-26T01:33:45.820850",
+  "query": "Calculate 200 / 5 / 2.",
+  "response": "207.000000000000",
+  "source": "🧮 Calculator Tool",
+  "test_type": "general"
+}

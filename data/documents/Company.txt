@@ -1,0 +1,34 @@
+Company Name: TechNova Solutions
+
+About Us:
+TechNova Solutions is a global technology company founded in 2015, headquartered in London, UK. 
+We specialize in artificial intelligence, data analytics, and cloud computing solutions for businesses.
+
+Our Mission:
+To empower organizations with intelligent, scalable, and secure technology that drives growth and innovation.
+
+Our Vision:
+To be a world leader in AI-driven business solutions by 2030.
+
+Core Values:
+- Innovation
+- Integrity
+- Customer Success
+- Sustainability
+- Collaboration
+
+Products & Services:
+1. AI Chatbots – Custom virtual assistants for customer service.
+2. Cloud Analytics – Data visualization and business insights.
+3. Cybersecurity Solutions – AI-powered threat detection and prevention.
+4. Healthcare AI – Patient monitoring, predictive diagnosis, and treatment optimization.
+5. Education Technology – Smart learning platforms for universities and schools.
+
+Clients:
+We serve over 500+ clients worldwide, including Fortune 500 companies in healthcare, finance, and retail.
+
+Contact Information:
+Headquarters: 12 King Street, London, UK
+Email: info@technovasolutions.com
+Phone: +44 20 7946 1234
+Website: www.technovasolutions.com

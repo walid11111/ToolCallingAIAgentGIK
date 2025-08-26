@@ -1,0 +1,127 @@
+Adil Saeed – Professional & Academic Profile
+
+Introduction:
+--------------------
+I’m Adil Saeed, a Software Engineering student at the Institute of Management Sciences (IMSciences), Peshawar. I am passionate about Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing (NLP), Computer Vision, and Large Language Models (LLMs). My goal is to build a strong foundation in these fields and apply them to solve meaningful, real-world problems.
+
+I have enhanced my learning through participation in the GIKI ML → LLM Bootcamp 2025, which introduced me to advanced AI concepts, modern architectures, and research directions. Additionally, I visited SkyElectric, where I observed real-world applications of AI-powered systems in energy projects, including GPU-based large-scale computation and commercially viable AI solutions.
+
+I am deeply interested in:
+- Understanding how ML/DL models are designed, trained, and optimized.
+- Exploring how Computer Vision enables machines to perceive the world.
+- Learning how NLP and LLMs improve human–machine interaction, particularly for low-resource languages like Urdu and Pashto.
+- Researching and contributing to AI/ML projects with real-world impact.
+
+My next step is to pursue a Master’s (MS) in AI/ML research. With curiosity, a growth mindset, and strong academic grounding, I am eager to learn, connect, and contribute to the global AI community.
+
+Education:
+--------------------
+1. Bachelor of Applied Science (BASc), Computer Software Engineering  
+   Institute of Management Sciences (IMSciences), Peshawar  
+   Sep 2023 – Sep 2027 | Grade: A  
+   Focus Areas: Web Development, Machine Learning, Software Architecture, UI/UX Design, System Design, Database Management  
+   Skills Developed: Software Development, Data Analysis, Java, Requirements Engineering, Web Development, Machine Learning, Software Architectural Design, MySQL, Python
+
+2. Diploma in Information Technology (DIT)  
+   Mandani Institute of Technology and Sciences  
+   Feb 2022 – Mar 2023 | Grade: A  
+   Focus Areas: Programming, Databases, Web Development, Operating Systems  
+   Skills Developed: Microsoft Office, Computer Competency, Operating Systems, Programming, Networking
+
+3. Higher Secondary School Certificate (HSSC), Pre-Medical  
+   Islamia College Peshawar  
+   Mar 2020 – Apr 2022 | Grade: A  
+   Focus Areas: Biology, Chemistry, Physics  
+   Skills Developed: Data Interpretation, Human Anatomy, Human Physiology, Scientific Reasoning
+
+4. Secondary School Certificate (SSC), Pre-Medical  
+   New Islamia School and College, Charsadda  
+   Sep 2018 – Sep 2020 | Grade: A  
+   Skills Developed: Analytical Skills, Research Skills, Scientific Skills, Documentation Skills, Observational Studies
+
+Bootcamp & Training:
+--------------------
+GIKI ML → LLM Bootcamp 2025  
+Skills Gained: Machine Learning, Supervised Learning, MLOps, Deep Learning, Artificial Neural Networks, Neural Networks, Convolutional Neural Networks (CNN), Recurrent Neural Networks (RNN), Computer Vision, NLP, Large Language Models (LLMs), Large Language Model Operations (LLMOps)
+
+Professional Skills:
+--------------------
+- Programming Languages: Python, Java, MySQL  
+- Web Development: HTML, CSS, JavaScript, UI/UX Design  
+- Software Engineering: Software Architecture, System Design, Requirements Engineering  
+- Data Science & AI: Machine Learning, Deep Learning, NLP, Computer Vision, LLMs  
+- Tools: Microsoft Office, Git/GitHub, Jupyter Notebook, VS Code  
+- Analytical Skills: Data Analysis, Scientific Reasoning, Problem Solving  
+
+Hobbies & Interests:
+--------------------
+- Exploring AI research papers and implementing ML/DL models  
+- Developing web applications and software projects  
+- Learning about emerging technologies in AI and computer science  
+- Participating in bootcamps, workshops, and tech seminars  
+- Reading technical blogs and enhancing programming skills  
+
+Career Goals:
+--------------------
+- Pursue MS in AI/ML research and contribute to innovative projects.  
+- Apply AI/ML solutions to real-world problems in healthcare, energy, and education.  
+- Build expertise in NLP and LLMs for low-resource languages.  
+- Grow as a professional in AI/ML and contribute to the global AI community.
+
+About the Creator
+
+This chatbot was created by Adil Saeed, an undergraduate student of Software Engineering at the Institute of Management Sciences (IMSciences). Adil is currently expanding his knowledge through studies at Ghulam Ishaq Khan Institute of Engineering Sciences and Technology (GIKI) and by actively joining bootcamps, workshops, and professional training programs.
+
+Adil’s journey is fueled by a strong passion for Artificial Intelligence, Machine Learning, Deep Learning, Natural Language Processing, and Web Development. Alongside academics, he has consistently worked on impactful projects such as sentiment analysis, face recognition, OCR systems, login risk detection, and medical diagnostic tools powered by ML models. His learning path combines both theoretical foundations and practical implementations, making him dedicated to becoming a professional researcher and developer in AI and advanced technologies.
+
+The True Motivation
+
+The biggest motivation and driving force behind this chatbot’s creation is the inspiration, mentorship, and relentless efforts of Sir Ali Imran Sindhu, a respected teacher at GIKI.
+
+Sir Ali Imran has not only taught technical knowledge but also uplifted the culture of learning and innovation within the university. He has:
+
+Arranged bootcamps and training sessions for students.
+
+Worked tirelessly, day and night, to create opportunities for growth at GIKI.
+
+Invited renowned experts from the fields of LLMs (Large Language Models), Agentic AI, and modern technologies to conduct seminars and knowledge-sharing events.
+
+Provided students with motivation, guidance, and facilities to ensure their learning is industry-oriented and future-ready.
+
+Adil firmly believes that without the vision and dedication of Sir Ali Imran, this chatbot project would not have been possible. That is why all credit for the inspiration, foundation, and motivation behind this chatbot goes to Sir Ali Imran Sindhu.
+
+Vision of the Creator
+
+Adil Saeed created this chatbot with the vision to:
+
+Provide intelligent assistance to students and researchers.
+
+Experiment with LLM-based agentic systems.
+
+Showcase how students, with the right mentorship and effort, can build impactful AI tools.
+
+Contribute to the upliftment of Pakistan’s tech ecosystem, following the example set by his teacher.
+
+My elder brother, Asad Ali, is a remarkable individual whose dedication, hard work, and unwavering support have shaped not only his own life but mine as well. At the age of 29, he has already accomplished so much academically and professionally. Asad Ali completed his Bachelor of Science in Software Engineering from an international university, a feat that demonstrates his intelligence, determination, and commitment to excellence.
+
+His professional journey has been equally impressive. In Pakistan, he worked at La Shifa International in Islamabad, gaining invaluable experience, and later moved to Air University, where he served as a Controller. Through these roles, he has shown not only his expertise and reliability but also his ability to lead and manage responsibilities with professionalism and integrity.
+
+Beyond his own achievements, what makes Asad Ali truly exceptional is his selflessness and dedication to his family, especially me, Adil Saeed. From the very beginning of my academic journey, he has been my strongest supporter and guide. It was through his encouragement and guidance that I reached where I am today. He insisted I attend this boot camp, understanding the value it would bring to my career, and now I am here, learning, growing, and expanding my skills—all thanks to his persistent motivation.
+
+Every achievement I accomplish is a reflection of his support and sacrifices. Asad Ali has not only inspired me through his own success but has consistently invested in my growth, pushing me to explore opportunities I might have overlooked. His faith in me, his guidance, and his relentless encouragement have been pillars of my journey.
+
+I dedicate all my accomplishments to my brother because without his support, I would not have had the courage, direction, or determination to pursue my goals. He is more than just a brother; he is a mentor, a guide, and a lifelong inspiration.
+
+In every step of my journey, I carry his lessons, his encouragement, and his vision for my success. Asad Ali is not only a testament to hard work and determination but also to the incredible impact a supportive elder sibling can have on shaping the life of someone they believe in.
+Shared Background: FSc from Islamia College Peshawar
+Hasnain, Saad Khan, Daud Khan, Rohail, and Umer Khan all share a common educational foundation, having completed their FSc (Intermediate) in Pre-Medical from Islamia College Peshawar.
+Hasnain: MBBS Student in Northwest Pakistan
+Hasnain is currently pursuing his MBBS (Bachelor of Medicine, Bachelor of Surgery) degree in the northwest region of Pakistan. He resides in Peshawar.
+Saad Khan: MBBS Student at Bacha Khan Medical College
+Saad Khan is enrolled in the MBBS program at Bacha Khan Medical College (BKMC) in Mardan, Khyber Pakhtunkhwa. Saad lives in Regi Model Town, Peshawar, near Board Bazar.
+Daud Khan: Law Student at University of the Punjab
+Daud Khan is studying Law at the University of the Punjab (PU) in Lahore. Daud resides in Katlang, Mardan District.
+Rohail: MBBS Student at Saidu Medical College
+Rohail is pursuing MBBS at Saidu Medical College (SMC) in Swat, Khyber Pakhtunkhwa. He lives in Shabqadar.
+Umer Khan: MBBS Student at Peshawar Medical College
+Umer Khan is studying MBBS at Peshawar Medical College (PMC) in Peshawar. Umer also resides in Shabqadar.
