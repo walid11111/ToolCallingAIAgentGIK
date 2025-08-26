@@ -22,19 +22,15 @@ Implement Controller Logic
 Benchmark Performance
 
 # 🛠️ Installation
-1. Clone the repo
-git clone https://github.com/yourusername/Agentic_AIi.git
-cd Agentic_AIi
+1. Setup Environment
+2. python -m venv .venv
+3.  .\.venv\Scripts\activate
 
-2. Setup Environment
-python -m venv .venv
-.\.venv\Scripts\activate
+4. Install dependencies
+5. uv pip install -r requirements.txt
+6. uv pip freeze > requirements.txt
 
-3. Install dependencies
-uv pip install -r requirements.txt
-uv pip freeze > requirements.txt
-
-4. Add API Keys
+5. Add API Keys
 
 Create a .env file in the root directory:
 
@@ -201,3 +197,4 @@ This project is licensed under the MIT License.
 # 🏆 Conclusion
 
 AI Assistant Pro is a testament to rapid innovation in just 3 days, delivering a robust, user-friendly, and high-performing AI agent. Built for the AI Bootcamp, it’s ready to impress! 🚀
+
